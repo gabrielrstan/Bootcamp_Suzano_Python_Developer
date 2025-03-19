@@ -1,0 +1,13 @@
+print(int(1.0))
+print(int(1.989549))
+print(int('10'))
+print(float('10.5'))
+print(float(100))
+print(str(10.50))
+value = 15
+value_str = str(value)
+value_int = int(value_str)
+print(type(value_str))
+print(type(value_int))
+print(100/2)
+print(100//2)

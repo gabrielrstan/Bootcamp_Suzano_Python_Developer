@@ -5,6 +5,7 @@ static_files
 static/
 */*.pdf
 */bin/chromedriver-linux64
+*/dio-lab-open-source/
 
 # Byte-compiled / optimized / DLL files
 __pycache__
